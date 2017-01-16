@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Notificatie
-//
-//  Created by Jurjen on 14/01/2017.
-//  Copyright © 2017 Jurjen. All rights reserved.
-//
 
 import UIKit
 import Firebase
