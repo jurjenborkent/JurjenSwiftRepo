@@ -1,0 +1,6 @@
+framework module Pods_PokemonVindenApplicatie {
+  umbrella header "Pods-PokemonVindenApplicatie-umbrella.h"
+
+  export *
+  module * { export * }
+}
