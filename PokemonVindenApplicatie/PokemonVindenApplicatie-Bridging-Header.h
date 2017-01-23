@@ -1,9 +1,4 @@
-//
-//  PokemonVindenApplicatie-Bridging-Header.h
-//  PokemonVindenApplicatie
-//
-//  Created by Jurjen on 16/01/2017.
-//  Copyright © 2017 Jurjen. All rights reserved.
-//
+// Deze bridging header file zorgt ervoor dat het project met
+// Objective-C classes kan communiceren 
 
 #import "GeoFire.h"
