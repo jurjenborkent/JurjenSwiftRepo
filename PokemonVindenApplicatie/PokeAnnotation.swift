@@ -1,3 +1,4 @@
+// Deze file zorgt ervoor dat er een pokemon ergens op de map verschijnt als er op de pokebal wordt gedrukt
 
 import Foundation
 import Foundation
