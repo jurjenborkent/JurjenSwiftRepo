@@ -1,9 +1,12 @@
 import UIKit
-import MapKit
+// importeren van de Mapkit zodat we een map view krijgen en het importeren van de firebasedatabase voor GeoFire.
+import MapKit 
 import FirebaseDatabase
 
 class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate {
 
+// deze outlet zorgt voor het weergeven van de map in de mainstory board.
+    
     @IBOutlet weak var mapView: MKMapView!
     
     let locationManager = CLLocationManager()
